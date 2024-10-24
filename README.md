@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 Recent graduate in Software Enginnering
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-almeida8/)
 <!--
 **PedroAlmeida88/PedroAlmeida88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
